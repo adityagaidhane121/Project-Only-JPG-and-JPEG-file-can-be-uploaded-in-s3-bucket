@@ -1,0 +1,1 @@
+# Project-Only-JPG-and-JPEG-file-can-be-uploaded-in-s3-bucket
