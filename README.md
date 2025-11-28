@@ -1,7 +1,7 @@
 # Project-Only-JPG-and-JPEG-file-can-be-uploaded-in-s3-bucket
 Step 1:Created s3 bucket. 
-Step 2:Then I have genrated bucket policy
-Step 3:In which in action I have seleted PutObject
+Step 2:Then I have genrated bucket policy.
+Step 3:In which in action I have seleted PutObject.
 Step 4:In which we have allow only JPG and JPEG file to be uploaded and deny other file extentions.
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/8941b965-4d89-41cc-9f48-5dd0032e12cc" />
 <img width="1889" height="886" alt="1-2" src="https://github.com/user-attachments/assets/bfd75abe-1db7-44ce-8280-28eef3e9206c" />
