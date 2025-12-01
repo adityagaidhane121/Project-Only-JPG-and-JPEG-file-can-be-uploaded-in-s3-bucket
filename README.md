@@ -15,7 +15,8 @@ Step 4:In which we have allow only JPG and JPEG file to be uploaded and deny oth
 <img width="1904" height="885" alt="1-10" src="https://github.com/user-attachments/assets/740df7b7-3cea-418c-8499-eae8b560496b" />
 <img width="1920" height="885" alt="1-11" src="https://github.com/user-attachments/assets/6a68cda2-3b7f-43f1-9fd1-02f81b766a89" />
 <img width="1913" height="881" alt="1-12" src="https://github.com/user-attachments/assets/90c34e97-86ad-45db-807a-8af9a16b4f4f" />
-<img width="1905" height="882" alt="1-13" src="https://github.com/user-attachments/assets/c3612183-0638-4028-bc3b-aad5b6b7b9b0" />
+<img width="1905" height="882" alt="1-13" src="https://github.com/user-attachments/assets/c3612183-0638-4028-bc3b-aad5b6b7b9b0" />uploades 
+Outcome: We have deny other file format and only jpeg and jpg files are allowed
 
 
 
